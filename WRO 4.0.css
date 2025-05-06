@@ -1,0 +1,65 @@
+body{
+    background-image: url(images/th.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+}
+header{
+    text-decoration: none;
+    color: whitesmoke;
+}
+h2{
+    color: rgb(255, 0, 170);
+    text-align: center;
+    text-decoration: none;
+    text-shadow: gray;
+    margin-top: 5px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.navbar a{
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar a:hover{
+    color: rgb(255, 0, 170);
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin-left: 100px;
+}
+.second{
+    color: rgb(255, 0, 170);
+    text-align: center;
+    text-shadow: gray;
+    margin-top: 100px;
+}
+h3{
+    margin-top: 100px;
+    color: rgb(255, 0, 170);
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+ul{
+    color: whitesmoke;
+    list-style-type: circle;
+}
+iframe{
+    width: 500px;
+    height: 300px;
+    margin-left: 1050px;
+    margin-top: -750px;
+    border-radius: 10px;
+}
